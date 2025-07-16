@@ -1,1 +1,1 @@
-# Double-Dable-Algorithm
+# 🔢 8-Bit Binary to BCD Converter using Double Dabble (Manual Logic in Proteus)
