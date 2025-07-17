@@ -47,7 +47,6 @@ Gained deep understanding of bitwise operations at gate level.
 Practiced digital logic design, simulation, and troubleshooting in Proteus.
 
 🖼️ Preview
-(Attach screenshots or simulation GIFs here)
 Example: Binary input 11001010 → BCD Output: 202
 
 💡 Possible Extensions
@@ -57,14 +56,6 @@ Expand for 10-bit or 12-bit inputs
 
 Add a decimal input interface using DIP switches or keypad
 
-📁 Files Included
-.DSN file (Proteus Design)
-
-Screenshots of simulation
-
-Optional schematic PDFs
-
-Documentation PDF (optional)
 
 🤝 Credits
 Designed by Shahab
